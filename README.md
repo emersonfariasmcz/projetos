@@ -66,7 +66,6 @@ O fluxo da informação segue uma arquitetura moderna e reprodutível:
 ├── vendas.db              # Banco de dados relacional SQLite populado
 ├── etl.py                 # Pipeline modular de Extração, Transformação e Carga
 ├── EDA_avancada.ipynb     # Análise Exploratória e Dashboards Executivos
-├── requirements.txt       # Dependências e bibliotecas Python do projeto
 └── README.md              # Documentação oficial do repositório
 ```
 
