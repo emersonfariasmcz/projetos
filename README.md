@@ -64,7 +64,6 @@ O fluxo da informação segue uma arquitetura moderna e reprodutível:
 
 ```text
 .
-├── data/                  # Arquivos de dados brutos (Excel / CSV)
 ├── vendas.db              # Banco de dados relacional SQLite populado
 ├── etl.py                 # Pipeline modular de Extração, Transformação e Carga
 ├── EDA_avancada.ipynb     # Análise Exploratória e Dashboards Executivos
@@ -99,35 +98,6 @@ Análise do faturamento líquido acumulado por canal (Amazon, Mercado Livre, Mag
 
 ### 3. Relação entre Faturamento, Comissão e Volume por Vendedor
 Gráfico de dispersão (*Scatter Plot*) correlacionando faturamento gerado, comissão total paga e volume de pedidos por vendedor, permitindo avaliar a eficiência comercial e custos operacionais.
-
----
-
-## 🔧 Como Executar o Projeto
-
-### Pré-requisitos
-Ter o **Python 3.10+** e o **Git** instalados na sua máquina.
-
-### Passo a Passo
-
-1. **Clonar o repositório:**
-   ```bash
-   git clone https://github.com/emersonfariasmcz/NOME-DO-SEU-REPOSITORIO.git
-   cd NOME-DO-SEU-REPOSITORIO
-   ```
-
-2. **Instalar as dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Executar a Pipeline de ETL:**
-   ```bash
-   python etl.py
-   ```
-   *Isso criará/atualizará o banco de dados `vendas.db` automaticamente.*
-
-4. **Executar as Análises:**
-   Abra o Jupyter Notebook ou o Google Colab e execute as células do arquivo **`EDA_avancada.ipynb`**.
 
 ---
 
