@@ -1,4 +1,4 @@
-# 📊 Sales Data Pipeline & Advanced Analytical Dashboard
+# 📊 Engenharia de Dados e Análise de Dados  
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-3.0-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
