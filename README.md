@@ -17,7 +17,6 @@ Projeto completo de **Engenharia de Dados e Analytics**, cobrindo desde o desenv
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Visualizações e Insights de Negócio](#-visualizações-e-insights-de-negócio)
-- [Como Executar o Projeto](#-como-executar-o-projeto)
 - [Autor e Contato](#-autor-e-contato)
 
 ---
