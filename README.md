@@ -103,7 +103,7 @@ Gráfico de dispersão (*Scatter Plot*) correlacionando faturamento gerado, comi
 
 Desenvolvido por **Emerson Farias**.
 
-- 💼 **LinkedIn**: [linkedin.com/in/emersonfarias](https://www.linkedin.com/in/emersonfarias) *(Atualize com seu link real)*
+- 💼 **LinkedIn**: [linkedin.com/in/emersonfariasbr](https://www.linkedin.com/in/emersonfariasbr) 
 - 🐙 **GitHub**: [@emersonfariasmcz](https://github.com/emersonfariasmcz)
 
 ---
