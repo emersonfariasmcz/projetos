@@ -4,9 +4,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3.0-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-Projeto completo de **Engenharia de Dados e Analytics**, cobrindo desde o desenvolvimento de um pipeline modular de ETL (*Extract, Transform, Load*) até a análise exploratória avançada (EDA) com visualização executiva de KPIs de vendas, performance de canais e eficiência comercial.
+Projeto de **Engenharia de Dados e Analytics**, cobrindo desde o desenvolvimento de um pipeline modular de ETL (*Extract, Transform, Load*) até a análise exploratória avançada (EDA) com visualização executiva de KPIs de vendas, performance de canais e eficiência comercial.
 
 ---
 
